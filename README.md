@@ -12,7 +12,7 @@ Why Have I chosen this task?
 My career is based on implementing Salesforce, a customer relationship system. Customer acquisition and churn are common and costly parts of the customer lifecylce. Being able to predict customers that are likely to churn can, in theory, help businesses prevent or mitigate the risks.
 
 
-The Dataset for this project is from Kaggle: https://www.kaggle.com/datasets/imsparsh/churn-risk-rate-hackerearth-ml/?select=sample_submission.csv. If you are interested in similar projects, visit kaggle or https://www.interviewquery.com/p/data-science-projects-for-students 
+
 
 Project
 
@@ -22,3 +22,7 @@ Churn rate is a marketing metric that describes the number of customers who leav
 - User demographic information
 - Browsing behavior
 - Historical purchase data among other information
+
+The Dataset for this project is from Kaggle: [https://www.kaggle.com/datasets/imsparsh/churn-risk-rate-hackerearth-ml/]. It was originally part of a Machine Learning Challenge hosted by HackerEarth [https://www.hackerearth.com/challenges/new/competitive/hackerearth-machine-learning-challenge-predict-customer-churn/] If you are interested in similar projects, visit kaggle or https://www.interviewquery.com/p/data-science-projects-for-students 
+
+The dataset consists of parameters such as the user’s demographic and PII details, membership account details, duration and frequency of their visits to the website, reported grievances and feedback, and others.
