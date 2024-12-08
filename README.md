@@ -26,3 +26,7 @@ Churn rate is a marketing metric that describes the number of customers who leav
 The Dataset for this project is from Kaggle: [https://www.kaggle.com/datasets/imsparsh/churn-risk-rate-hackerearth-ml/]. It was originally part of a Machine Learning Challenge hosted by HackerEarth [https://www.hackerearth.com/challenges/new/competitive/hackerearth-machine-learning-challenge-predict-customer-churn/] If you are interested in similar projects, visit kaggle or https://www.interviewquery.com/p/data-science-projects-for-students 
 
 The dataset consists of parameters such as the user’s demographic and PII details, membership account details, duration and frequency of their visits to the website, reported grievances and feedback, and others.
+
+
+# Notebook
+https://github.com/opeokupe/capstone-ai-ml/blob/main/notebooks/Churn_Note_Book.ipynb 
