@@ -1,7 +1,7 @@
 # capstone-ai-ml
 
 
-Welcome to my Repository.
+### Welcome to my Repository.
 
 As part of the Professional Certificate in Machine Learning and Artificial Intelligence course at Imperial College, the repository contains the final Capstone Project to demonstrate some of our learnings during the course.
 
@@ -14,7 +14,7 @@ My career is based on implementing Salesforce, a customer relationship system. C
 
 
 
-Project
+### Project
 
 Predicting the churn score for a website based on the features provided in the database.
  
