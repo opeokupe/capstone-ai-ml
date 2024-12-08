@@ -29,4 +29,4 @@ The dataset consists of parameters such as the user’s demographic and PII deta
 
 
 # Notebook
-https://github.com/opeokupe/capstone-ai-ml/blob/main/notebooks/Churn_Note_Book.ipynb 
+[https://github.com/opeokupe/capstone-ai-ml/blob/main/notebooks/Churn_Note_Book.ipynb] 
